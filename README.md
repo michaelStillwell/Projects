@@ -1,6 +1,8 @@
 Mega Project List
 ========
 
+> This is my rendition of this repo, I will be writing most of this in Rust as much as I can and posting solutions here.
+
 A list of practical projects that anyone can solve in any programming language (See [solutions](https://github.com/thekarangoel/Projects-Solutions)). These projects are divided in multiple categories, and each category has its own folder.
 
 To get started, simply fork this repo.
@@ -25,24 +27,24 @@ Problems are motivated by the ones shared at:
 
 ## Table of Contents
 
-- [Numbers](https://github.com/karan/Projects#numbers)
-- [Classic Algorithms](https://github.com/karan/Projects#classic-algorithms)
-- [Graph](https://github.com/karan/Projects#graph)
-- [Data Structures](https://github.com/karan/Projects#data-structures)
-- [Text](https://github.com/karan/Projects#text)
-- [Networking](https://github.com/karan/Projects#networking)
-- [Classes](https://github.com/karan/Projects#classes)
-- [Threading](https://github.com/karan/Projects#threading)
-- [Web](https://github.com/karan/Projects#web)
-- [Files](https://github.com/karan/Projects#files)
-- [Databases](https://github.com/karan/Projects#databases)
-- [Graphics and Multimedia](https://github.com/karan/Projects#graphics-and-multimedia)
-- [Security](https://github.com/karan/Projects#security)
+- [Numbers](https://github.com/michaelStillwell/Projects#numbers)
+- [Classic Algorithms](https://github.com/michaelStillwell/Projects#classic-algorithms)
+- [Graph](https://github.com/michaelStillwell/Projects#graph)
+- [Data Structures](https://github.com/michaelStillwell/Projects#data-structures)
+- [Text](https://github.com/michaelStillwell/Projects#text)
+- [Networking](https://github.com/michaelStillwell/Projects#networking)
+- [Classes](https://github.com/michaelStillwell/Projects#classes)
+- [Threading](https://github.com/michaelStillwell/Projects#threading)
+- [Web](https://github.com/michaelStillwell/Projects#web)
+- [Files](https://github.com/michaelStillwell/Projects#files)
+- [Databases](https://github.com/michaelStillwell/Projects#databases)
+- [Graphics and Multimedia](https://github.com/michaelStillwell/Projects#graphics-and-multimedia)
+- [Security](https://github.com/michaelStillwell/Projects#security)
 
 Numbers
 ---------
 
-**Find PI to the Nth Digit** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**[Find PI to the Nth Digit](https://github.com/michaelStillwell/Projects/blobs/master/pi-to-digit)** - Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
 **Find e to the Nth Digit** - Just like the previous problem, but with e instead of PI. Enter a number and have the program generate e up to that many decimal places. Keep a limit to how far the program will go.
 
